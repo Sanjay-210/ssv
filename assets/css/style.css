@@ -4959,7 +4959,7 @@ GeoTrip Elements Styles
 .touritem-middle {
   justify-content: space-between;
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   height: 100%;
 }
 
