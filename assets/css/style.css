@@ -2920,6 +2920,7 @@ div[data-overlay] p {
   overflow: hidden;
   width: 100%;
   background: #ffffff;
+  
 }
 
 .card-header {
@@ -5738,10 +5739,16 @@ img.img-footer {
 .footer-widget {
   padding: 70px 0;
 }
-.footer-widget h4.widget-title {
+/* .footer-widget h4.widget-title {
   margin-bottom: 20px;
   font-size: 15px;
   color: #003a75;
+} */
+.footer-widget h4.widget-title {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #cd2c22;
+    margin-top: 20px;
 }
 .footer-widget ul {
   padding: 0;
