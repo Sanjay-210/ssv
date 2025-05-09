@@ -4386,6 +4386,12 @@ nav a {
   margin-top: 0.7em;
 }
 
+.svv{
+    background-color: white;
+    border-radius: 10px;
+     /* border: 1px solid #cd2c22; */
+}
+
 .logo h1 a {
   color: #fff;
   font-size: 1.3em;
